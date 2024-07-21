@@ -1,0 +1,12 @@
+.Pagination a {
+  color: black;
+}
+
+.Pagination a:hover {
+  color: black;
+}
+
+.Pagination .active .page-link {
+  background-color: black;
+  border-color: black;
+}
